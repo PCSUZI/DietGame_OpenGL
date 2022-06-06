@@ -5,7 +5,6 @@
 
 <img src="DietGame_OpenGL/OpenGLREADME/Untitled.png" alt="Untitled" style="zoom:100%;" />
 
-<img src="DietGame_OpenGL/OpenGLREADME/Untitled%201.png" alt="Untitled" style="zoom:50%;" />
 
 ## 👩‍🏫PROJECT 소개
 
