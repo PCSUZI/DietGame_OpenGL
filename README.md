@@ -33,6 +33,4 @@ OpneGL 학습용 미니게임 제작
 
 ### 플레이 영상
 
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=thIIEEcLJgg&feature=youtu.be)
-
 [https://www.youtube.com/watch?v=thIIEEcLJgg&feature=youtu.be](https://www.youtube.com/watch?v=thIIEEcLJgg&feature=youtu.be)
