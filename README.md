@@ -3,9 +3,9 @@
 개발: C++, OpenGL, Win32
 업무포지션: 대학생
 
-![Untitled](OpenGLREADME/Untitled.png)
+<img src="DietGame_OpenGL/OpenGLREADME/Untitled.png" alt="Untitled" style="zoom:100%;" />
 
-![Untitled](OpenGLREADME/Untitled%201.png)
+<img src="DietGame_OpenGL/OpenGLREADME/Untitled%201.png" alt="Untitled" style="zoom:50%;" />
 
 ## 👩‍🏫PROJECT 소개
 
